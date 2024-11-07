@@ -37,6 +37,6 @@ after that your webserver will getting target machine clipboard data in every 10
 <b>Desclaimer: </b> this program only for pentesting & educational purposes only so don't miss use this program.
 
 ### Video Demo
-[![Clipboard-Hijacker Demo](https://img.youtube.com/vi/WylviCWbz9M/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/WylviCWbz9M)
+[![Clipboard-Hijacker Demo](https://img.youtube.com/vi/WylviCWbz9M/0.jpg)](https://www.youtube.com/watch?v=WylviCWbz9M)
 
 ### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
